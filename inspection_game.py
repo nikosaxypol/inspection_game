@@ -104,8 +104,8 @@ max_n = 16
 min_k = 15
 max_k = 15
 
-min_l = 16
-max_l = 16
+min_l = 1
+max_l = 10
 
 for n in range(min_n, max_n+1):
     for k in range(min_k, max_k+1):
