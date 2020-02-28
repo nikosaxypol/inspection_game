@@ -1,3 +1,6 @@
+# https://docs.google.com/spreadsheets/d/1lyqa7rDg-6BAk_PUChSI0-XunnH9VXqHTOsWjLrT6Y4/edit?usp=sharing
+# https://www.onlinegdb.com/online_python_compiler
+
 from numpy import arange
 
 last_x = 'N/A'
