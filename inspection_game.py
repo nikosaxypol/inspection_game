@@ -78,6 +78,8 @@ def G(n, k, l, q):
         v = l*q
     elif n == l:
         v = o(n,k,q)
+        _x = 1/2
+        last_x = _x
     else:
         a = G(n-1, k-1, l-1, q) + 1
         b = G(n-1, k-1, l  , q)
